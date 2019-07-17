@@ -1,0 +1,11 @@
+
+8:58:36 PM	log	text	
+8:58:36 PM	log	checkbox	
+8:58:36 PM	click	// 
+	
+8:58:34 PM	click	// 
+	
+8:58:34 PM	error	ERROR CONTEXT,	
+8:58:34 PM	error	ERROR,	
+8:58:30 PM	GET =>	http://localhost:4200/sockjs-node/info	
+8:58:30 PM	url	http://localhost:4200/	
